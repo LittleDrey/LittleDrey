@@ -20,10 +20,11 @@
   </p>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/n8n-Process_Automation-ff6f61?style=flat&logo=n8n&logoColor=white" />
-    <img src="https://img.shields.io/badge/Databricks-Lakehouse-FF3621?style=flat&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/GCP-BigQuery_&_GCS-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  </p>
+  <img src="https://img.shields.io/badge/n8n-Process_Automation-ff6f61?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Lakehouse-FF3621?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-Data_Processing-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-BigQuery_&_GCS-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+</p>
 
   ---
 
