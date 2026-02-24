@@ -2,6 +2,7 @@
 
   # Olá, eu sou o Andrey 👋
   ### Data Engineer & Analytics Specialist
+  Sou Andrey Henrique, estudante de Análise e Desenvolvimento de Sistemas no UDF (Centro Universitário), com atuação prática em **Engenharia de Dados** e **Análise de Dados (Marketing)**.
 
   <p align="center">
     Transformo dados brutos em decisões estratégicas. <br>
@@ -32,7 +33,6 @@
   | :--- | :--- | :--- |
   | **E-commerce Data Lakehouse** | `Databricks` `PySpark` | Pipeline End-to-End com Arquitetura Medalhão e IA. |
   | **SaaS Automação Fiscal** | `n8n` `Python` `SQL` | Governança de dados e redução de 95% de esforço manual. |
-  | **Football Analytics** | `SQL` `Power BI` | Modelagem dimensional e ingestão de dados esportivos. |
 
   ---
 
