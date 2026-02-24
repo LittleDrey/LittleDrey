@@ -15,7 +15,7 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=gcp,azure,python,pyspark,mysql,postgres,docker,git,github,powerbi&perline=10" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=gcp,azure,python,spark,mysql,postgres,docker,git,github,powerbi&perline=10" alt="My Skills" />
     </a>
   </p>
   
